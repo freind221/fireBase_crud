@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282930990732",
+    "project_id": "fire-learning-e2d9e",
+    "storage_bucket": "fire-learning-e2d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282930990732:android:7074f2fa780ae0bd38f5a9",
+        "android_client_info": {
+          "package_name": "com.kamran.fire_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282930990732-v1pp1jac9iccs1k2br5jpt6cpms9afni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGhY36Qa1ZIPsh8bW_7a4eqFi9SgmFrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282930990732-v1pp1jac9iccs1k2br5jpt6cpms9afni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
