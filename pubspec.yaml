@@ -41,6 +41,7 @@ dependencies:
   fluttertoast: ^8.0.9
   firebase_database: ^9.1.4
   another_flushbar: ^1.12.29
+  image_picker: ^0.8.5+3
 
 dev_dependencies:
   flutter_test:

@@ -1,5 +1,6 @@
 import 'package:fire_learn/UI/post_screen.dart';
 import 'package:fire_learn/UI/splash.dart';
+import 'package:fire_learn/UI/upload_image.dart';
 
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const SplashScreen(),
+      home: const UploadImage(),
     );
   }
 }
